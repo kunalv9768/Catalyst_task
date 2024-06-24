@@ -1,0 +1,41 @@
+1=>
+Install Required Software:
+
+Python 3.x
+PostgreSQL
+Django
+Django Rest Framework
+django-allauth
+django-environ
+Bootstrap 4/5
+
+2=>
+Created Django Project:
+Setup the setting.py
+
+3=>
+Set Up PostgreSQL Database
+setup the .env file
+
+4=>
+Configure Authentication with django-allauth
+
+5=>
+Created the User Interface with Bootstrap
+
+6=>
+created html templates
+
+7=>
+Implement File Upload with Progress Bar
+
+8=>
+Implement Query Builder and Filtering
+
+9=>
+Created unit testing
+
+10=>
+Finally run the test
+
+
